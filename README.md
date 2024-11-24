@@ -7,11 +7,11 @@ This repository serves as a practice and reference guide for probability distrib
 - Exponential Distribution: Modeling the time between events in a Poisson process.
 
 ## Purpose
-The goal is to:
-Reinforce understanding of statistical concepts and their real-world applications.
-Provide hands-on examples of probability calculations in R.
-Enable data-driven decision-making through statistical modeling (e.g., equipment replacement analysis).
-Visualize probability distributions to aid in intuitive learning.
+The goal of this exercise is to:
+- Reinforce understanding of statistical concepts and their real-world applications.
+- Provide hands-on examples of probability calculations in R.
+- Enable data-driven decision-making through statistical modeling (e.g., equipment replacement analysis).
+- Visualize probability distributions to aid in intuitive learning.
 
 ## Who Should Use This Repository?
 This repository is ideal for:
