@@ -14,6 +14,6 @@ The goal of this exercise is to:
 
 ## Who Should Use This Repository?
 This repository is ideal for:
-Students looking to practice statistical concepts.
-Data scientists and statisticians brushing up on probability theory.
-Programmers seeking to incorporate statistical modeling in their workflows.
+- Students looking to practice statistical concepts.
+- Data scientists and statisticians brushing up on probability theory.
+- Programmers seeking to incorporate statistical modeling in their workflows.
