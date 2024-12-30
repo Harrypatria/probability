@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository serves as a practice and reference guide for probability distributions commonly used in statistics, data science, and applied mathematics. It includes practical R code examples, formulas, and visualizations for key distributions, such as:
+This repository serves as a practice and reference guide for probability distributions commonly used in statistics, data science, and applied mathematics. It includes practical R code examples, formulas, and visualizations for key distributions:
 - Normal Distribution: Modeling continuous data with a bell-curve shape.
 - Poisson Distribution: Modeling event counts in a fixed interval or space.
 - Exponential Distribution: Modeling the time between events in a Poisson process.
